@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0.5,
+  "terminal.integrated.fontSize": 12,
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "vscode-icons"
+}
